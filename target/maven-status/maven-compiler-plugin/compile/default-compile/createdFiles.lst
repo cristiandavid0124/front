@@ -1,0 +1,9 @@
+com\example\demo\AccessingDataJpaApplication.class
+com\example\demo\model\Property.class
+com\example\demo\service\PropertyService.class
+com\example\demo\service\UserService.class
+com\example\demo\controller\LoginController.class
+com\example\demo\model\User.class
+com\example\demo\repository\PropertyRepository.class
+com\example\demo\controller\PropertyController.class
+com\example\demo\repository\UserRepository.class
