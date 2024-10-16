@@ -6,8 +6,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
-
 /**
  * Clase principal para la aplicación Spring Boot que accede a datos JPA.
  * Esta clase inicia la aplicación y configura el contexto de Spring.
